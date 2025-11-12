@@ -1,0 +1,33 @@
+Developer: TKode/Theodor Kvarnström Effective Date: 2025-11-12 (year, month, date)
+
+This Privacy Policy governs the manner in which Ready, Set, MarQuiz (the "App") collects, uses, maintains, and discloses information collected from users (each, a "User") of the App.
+
+1. Data Collection and Use
+We are committed to protecting your privacy. The App collects and uses only the following limited data types, strictly for the functionality of the game:
+
+A. Direct Access to Device Capabilities
+The App requests the following permissions to enable core game features:
+
+Camera: The App uses your device's camera only when you choose to activate the in-game feature that requires it (e.g., AR feature and etc). The images or video streams captured are processed locally on your device and are not saved, stored, or transmitted by us.
+
+Location Services (Precise/Approximate Location): The App accesses your device's location only when you choose to activate the in-game feature that requires it (e.g., location-based gameplay). This location data is processed locally on your device in real-time and is not stored or transmitted by us.
+
+B. Data Collected by the Unity Engine
+The App is built with the Unity game engine. Unity (Unity Technologies) may automatically collect certain non-personal data necessary for the functioning of the engine and to provide services to us, the developer. This may include:
+
+Technical Data: Device type, operating system, and unique device identifiers.
+
+Performance Data: Information about how the game performs and crashes.
+
+This data is used to ensure the game runs correctly, prevent fraud, and for basic aggregated analytics. For more information on Unity’s data collection practices, please see Unity’s privacy policy: https://unity.com/legal/privacy-policy.
+
+2. No Data Sharing or Storage
+We do not collect, store, or transmit any Personal Data. 
+
+We do not share any data collected by the App with third parties for any marketing, advertising, or commercial purposes.
+
+3. Children's Privacy
+The App is not directed to children under the age of 13. 
+
+4. Changes to This Privacy Policy
+We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy here and updating the "Effective Date" at the top of this policy. You are advised to review this Privacy Policy periodically for any changes.
